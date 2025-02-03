@@ -770,8 +770,7 @@ nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/s.gravatar.com/4#inet#fw4#vpn_domains
 nftset=/webrtc.chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/xn--ctbhsycx2a.xn--p1ai/4#inet#fw4#vpn_domains
-
-
+nftset=/auth.openai.com/4#inet#fw4#vpn_domains
 
 
 
